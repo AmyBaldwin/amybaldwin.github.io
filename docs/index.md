@@ -1,3 +1,20 @@
+## Welcome to the Whole Genome analysis suite for Microbial Isolates
+
+
+amybaldwin.github.io
+
+[Core](https://amybaldwin.github.io/Core/): A comprehensive whole genome analysis pipeline for microbial isolates. 
+
+[Tool 1](https://amybaldwin.github.io/Tool_1/): A mass screening tool using up-to-date, curated databases 
+
+[Tool 2](https://amybaldwin.github.io/Tool_2/): A genome mass screening tool with bespoke sequences 
+
+[Tool 3](https://amybaldwin.github.io/Tool_3/): A whole genome comparison tool 
+
+[Tool 4](https://amybaldwin.github.io/Tool_4/): Finding unique sections of DNA for primer design
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AmyBaldwin/amybaldwin.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -22,6 +39,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+         
 
 [Link](url) and ![Image](src)
 ```
