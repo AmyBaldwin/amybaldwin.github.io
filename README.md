@@ -15,3 +15,5 @@ amybaldwin.github.io
 
 
 Alternatively, my [RunAnyTool](https://amybaldwin.github.io/RunAnyTool/) guide describes the quick and easy set up almost any software tool on your system. To use space efficiently, the tools can easily be removed once analysis is complete. Set up does not require installing additional dependencies and can be completed in a matter of minutes. 
+
+Documentation for the [reference libraries](https://amybaldwin.github.io/reference_libraries/) and [upkeep](https://amybaldwin.github.io/maintenance_manual/).
