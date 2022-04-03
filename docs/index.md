@@ -14,8 +14,13 @@ Explore bacterial genomes with:
 
 ---
 
+Documentation for the [reference libraries](https://amybaldwin.github.io/reference_libraries/) and [upkeep](https://amybaldwin.github.io/maintenance_manual/).
+
 The Tools are built with the pipeline manager [Nextflow](https://www.nextflow.io/), and operate within [Singularity](https://sylabs.io/singularity) containers.
 
 The suite was developed as part of a collaborative project between [Volac International Ltd](https://www.volac.com/). and [Cardiff University](https://www.cardiff.ac.uk/), partly funded by [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) as part of a [knowledge transfer partnership (KTP)](https://www.ktp-uk.org/).
 
 ---
+
+
+***NEW***, my [RunAnyTool](https://amybaldwin.github.io/RunAnyTool/) guide describes the quick and easy set up almost any software tool on your system. To use space efficiently, the tools can easily be removed once analysis is complete. Set up does not require installing additional dependencies and can be completed in a matter of minutes. 
